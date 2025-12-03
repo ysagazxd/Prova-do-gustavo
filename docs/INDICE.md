@@ -13,9 +13,8 @@
 3. **[README.md](../README.md)** - Visão geral do projeto
 
 ### 🎤 **Quero me preparar para apresentação**
-1. **[Dicas de Apresentação](dicas_apresentacao.md)** - Roteiro e perguntas
-2. **[RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)** - Pontos principais
-3. **[Documentação Completa](documentacao_completa.md)** - Base técnica
+1. **[RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)** - Pontos principais
+2. **[Documentação Completa](documentacao_completa.md)** - Base técnica
 
 ### 📊 **Quero ver análises dos dados**
 1. **[Notebook de Análise](../notebooks/exploratory_analysis.ipynb)** - Jupyter com gráficos
@@ -34,7 +33,7 @@
 ### 🏗️ **Documentação Técnica**
 - **[Arquitetura](arquitetura.md)** - Design do sistema e componentes
 - **[Guia de Execução](guia_execucao.md)** - Como rodar o projeto
-- **[Dicas de Apresentação](dicas_apresentacao.md)** - Preparação para a prova
+
 
 ### 💻 **Código e Configurações**
 - **[Pipeline Principal](../src/pipeline.py)** - ETL completo com Spark
@@ -67,9 +66,8 @@
 3. **[Troubleshooting](guia_execucao.md#6-troubleshooting)** - Se algo der errado
 
 ### 🎤 **Para Apresentar**
-1. **[Dicas de Apresentação](dicas_apresentacao.md)** - Roteiro completo
-2. **[RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)** - Pontos principais
-3. **[Documentação Completa](documentacao_completa.md)** - Referência técnica
+1. **[RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)** - Pontos principais
+2. **[Documentação Completa](documentacao_completa.md)** - Referência técnica
 
 ---
 
@@ -100,10 +98,9 @@
 - [Backup e Recovery](arquitetura.md#8-disaster-recovery)
 
 ### 🎓 **Apresentação**
-- [Roteiro de Apresentação](dicas_apresentacao.md#2-roteiro-de-apresentação-15-min)
-- [Perguntas Individuais](dicas_apresentacao.md#2-perguntas-individuais---preparação)
-- [Demonstração Técnica](dicas_apresentacao.md#3-demonstração-técnica)
 - [Pontos Fortes](RESUMO_EXECUTIVO.md#diferenciais-do-projeto)
+- [Resumo Executivo](../RESUMO_EXECUTIVO.md)
+- [Documentação Técnica](documentacao_completa.md)
 
 ---
 
@@ -146,6 +143,6 @@ Esta documentação foi estruturada para ser **autoexplicativa** e **navegável*
 **Para sua prova:**
 1. **Execute** o projeto seguindo o [RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)
 2. **Estude** a [Documentação Completa](documentacao_completa.md)
-3. **Prepare-se** com as [Dicas de Apresentação](dicas_apresentacao.md)
+3. **Prepare-se** com o [Resumo Executivo](../RESUMO_EXECUTIVO.md)
 
 **Você tem um projeto completo, funcional e bem documentado! 🚀**

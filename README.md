@@ -69,7 +69,6 @@ Dados CSV → Ingestão (Python) → Processamento (Spark) → Data Lake (MinIO)
 - 📋 **[Documentação Completa](docs/documentacao_completa.md)** - Visão geral técnica e de negócio
 - 🏛️ **[Arquitetura](docs/arquitetura.md)** - Diagramas e componentes detalhados
 - 🚀 **[Guia de Execução](docs/guia_execucao.md)** - Passo a passo para rodar o projeto
-- 🎤 **[Dicas de Apresentação](docs/dicas_apresentacao.md)** - Preparação para a prova
 - 📊 **[Análise Exploratória](notebooks/exploratory_analysis.ipynb)** - Jupyter notebook com insights
 - 📈 **[Resumo Executivo](RESUMO_EXECUTIVO.md)** - Visão geral para apresentação
 

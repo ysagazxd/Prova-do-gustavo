@@ -1,0 +1,6 @@
+,customer_id,total_amount,total_amount
+,nunique,mean,sum
+customer_segment,,,
+Básico,1613,1622.0,5378549.24
+Premium,1615,1580.61,5255518.17
+Regular,1618,1656.26,5563365.7

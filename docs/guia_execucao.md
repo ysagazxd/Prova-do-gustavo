@@ -324,5 +324,4 @@ docker image prune -f
 - **🏠 Voltar ao Início**: [../README.md](../README.md)
 - **📋 Documentação Completa**: [documentacao_completa.md](documentacao_completa.md)
 - **🏗️ Arquitetura**: [arquitetura.md](arquitetura.md)
-- **🎓 Dicas de Apresentação**: [dicas_apresentacao.md](dicas_apresentacao.md)
 - **📈 Resumo Executivo**: [../RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)

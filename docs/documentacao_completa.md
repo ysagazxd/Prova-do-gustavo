@@ -346,7 +346,7 @@ rating DECIMAL(3,1) -- Avaliação do produto (1-5)
 4. **Arquitetura**: Componentes, comunicação, escalabilidade
 5. **Decisões técnicas**: Trade-offs, alternativas consideradas
 
-> 🎓 **Para preparação completa da apresentação, veja [dicas_apresentacao.md](dicas_apresentacao.md)**
+
 
 ## 10. Melhorias Futuras
 
@@ -392,7 +392,7 @@ A implementação demonstra domínio técnico em Big Data, Ciência de Dados e E
 - **🏠 Início**: [README.md](../README.md)
 - **🏗️ Arquitetura**: [arquitetura.md](arquitetura.md)
 - **🚀 Execução**: [guia_execucao.md](guia_execucao.md)
-- **🎓 Apresentação**: [dicas_apresentacao.md](dicas_apresentacao.md)
+
 - **📊 Análise**: [../notebooks/exploratory_analysis.ipynb](../notebooks/exploratory_analysis.ipynb)
 - **💼 Resumo**: [../RESUMO_EXECUTIVO.md](../RESUMO_EXECUTIVO.md)ões, timestamps
 
