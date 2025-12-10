@@ -48,8 +48,8 @@ Dados CSV → Ingestão (Python) → Processamento (Spark) → Data Lake (MinIO)
 ```
 
 ### 👥 Equipe
-- **Gustavo**: Arquitetura geral e processamento de dados
-- **[Colega]**: Visualização e análise de dados
+- **BRUNO**: Arquitetura geral e processamento de dados
+- **ALLISON**: Visualização e análise de dados
 
 > 👨‍💼 **Para detalhes das responsabilidades individuais, consulte [docs/documentacao_completa.md](docs/documentacao_completa.md#9-trabalho-individual)**
 

@@ -1,8 +1,46 @@
 # Guia de Execução e Dependências
 
+## 🛠️ **REQUISITOS OBRIGATÓRIOS PARA RODAR O PROJETO**
+
+### **✅ DEVE TER INSTALADO:**
+- **Docker** (versão 20.10.0 ou superior)
+- **Docker Compose** (versão 2.0.0 ou superior) 
+- **Python** (versão 3.9.0 ou superior)
+
+### **⚠️ OPCIONAL (para pipeline Spark completo):**
+- **Java 17+** (se não tiver, use pipeline simplificado)
+
+### **🔍 VERIFICAR SE TEM:**
+```bash
+docker --version          # Precisa: 20.10.0+
+docker-compose --version  # Precisa: 2.0.0+
+python --version          # Precisa: 3.9.0+
+java -version             # Opcional: 17+ (para Spark)
+```
+
+### **📦 INSTALAÇÃO AUTOMÁTICA:**
+```bash
+# Execute apenas este comando (instala tudo automaticamente):
+setup.bat
+```
+
+### **📦 INSTALAÇÃO MANUAL:**
+```bash
+# 1. Instalar dependências Python
+pip install pandas numpy boto3 psycopg2-binary matplotlib seaborn python-dotenv
+
+# 2. Subir containers Docker
+cd infra && docker-compose up -d
+
+# 3. Executar pipeline
+python src/pipeline_simple.py
+```
+
+---
+
 ## 🚀 Guia de Execução: Como Rodar do Zero
 
-### Pré-requisitos Obrigatórios
+### Pré-requisitos Detalhados
 
 #### Software Necessário
 ```bash
@@ -47,8 +85,8 @@ setup.bat
 #### Passo 1: Preparação do Ambiente
 ```bash
 # 1. Clonar repositório (se necessário)
-git clone <url-repositorio>
-cd sistema-vendas-ecommerce
+git clone https://github.com/ysagazxd/Prova-do-gustavo.git
+cd Prova-do-gustavo
 
 # 2. Criar ambiente virtual Python
 python -m venv venv

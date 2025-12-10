@@ -318,22 +318,20 @@ rating DECIMAL(3,1) -- Avaliação do produto (1-5)
 
 ### 9.1 Responsabilidades por Integrante
 
-#### Gustavo (Você)
+#### Bruno Rocha
 - **Arquitetura geral**: Design do pipeline e componentes
 - **Processamento de dados**: Implementação Spark, transformações
 - **Data Lake**: Estrutura de camadas, formatos de dados
 - **Infraestrutura**: Docker Compose, configurações
 - **Documentação**: Arquitetura, guias técnicos
 
-#### [Seu Colega]
+#### Allison Henrique
 - **Análise de dados**: Jupyter notebooks, estatísticas
 - **Visualização**: Dashboards Metabase, KPIs
 - **Validação**: Testes de qualidade, validação de resultados
 - **Documentação**: Análises, insights de negócio
 
 ### 9.2 Conhecimentos Demonstrados
-
-#### Gustavo
 - **Big Data**: Spark, Data Lake, processamento distribuído
 - **Engenharia de Dados**: ETL, pipeline design, formatos otimizados
 - **Infraestrutura**: Docker, orquestração de serviços
@@ -442,14 +440,14 @@ A implementação demonstra domínio técnico em Big Data, Ciência de Dados e E
 
 ### 9.1 Responsabilidades por Integrante
 
-#### Gustavo (Você)
+####  Bruno Rocha
 - **Arquitetura geral**: Design do pipeline e componentes
 - **Processamento de dados**: Implementação Spark, transformações
 - **Data Lake**: Estrutura de camadas, formatos de dados
 - **Infraestrutura**: Docker Compose, configurações
 - **Documentação**: Arquitetura, guias técnicos
 
-#### [Seu Colega]
+#### Allison Henrique
 - **Análise de dados**: Jupyter notebooks, estatísticas
 - **Visualização**: Dashboards Metabase, KPIs
 - **Validação**: Testes de qualidade, validação de resultados
@@ -457,7 +455,7 @@ A implementação demonstra domínio técnico em Big Data, Ciência de Dados e E
 
 ### 9.2 Conhecimentos Demonstrados
 
-#### Gustavo
+#### Bruno Rocha
 - **Big Data**: Spark, Data Lake, processamento distribuído
 - **Engenharia de Dados**: ETL, pipeline design, formatos otimizados
 - **Infraestrutura**: Docker, orquestração de serviços

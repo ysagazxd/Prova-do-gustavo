@@ -5,7 +5,7 @@ import os
 
 class SimpleDataPipeline:
     def __init__(self):
-        self.data_path = "../datasets/sales_data.csv"
+        self.data_path = "datasets/sales_data.csv"
         
     def run_pipeline(self):
         """Executa pipeline simplificado usando apenas pandas"""
@@ -81,7 +81,7 @@ class SimpleDataPipeline:
         print("\n6. Salvando resultados...")
         
         # Criar diretório de saída se não existir
-        output_dir = "../output"
+        output_dir = "output"
         os.makedirs(output_dir, exist_ok=True)
         
         # Salvar CSVs

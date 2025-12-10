@@ -243,4 +243,4 @@ class DataPipeline:
 if __name__ == "__main__":
     # Executar pipeline
     pipeline = DataPipeline()
-    pipeline.run_pipeline("../datasets/sales_data.csv")
+    pipeline.run_pipeline("datasets/sales_data.csv")

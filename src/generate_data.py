@@ -77,7 +77,7 @@ if __name__ == "__main__":
     sales_df = generate_sales_data()
     
     # Salvar em CSV
-    sales_df.to_csv('../datasets/sales_data.csv', index=False)
+    sales_df.to_csv('datasets/sales_data.csv', index=False)
     print(f"Dados gerados: {len(sales_df)} registros salvos em datasets/sales_data.csv")
     
     # Mostrar estatísticas básicas
